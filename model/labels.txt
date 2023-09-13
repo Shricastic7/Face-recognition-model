@@ -1,0 +1,10 @@
+0 Arnold_Swatzenneger
+1 Bill_Gates
+2 Chris_Hamsworth
+3 Chris_Martin
+4 Christian_Bale
+5 Elon_Musk
+6 Irfan_Khan
+7 Kapil_Kadam
+8 Sylvester_Stallone
+9 Abel_Tesfaye
